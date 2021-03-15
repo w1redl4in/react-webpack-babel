@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">React Webpack Babel Repository</h1>
 
 ## :rocket: Technologies
@@ -9,3 +10,6 @@ This project was developed by @lainwired during <strong>Rocketseat's Ignite Jour
 - [Webpack](https://webpack.js.org/)
 
 Made with ♥ by Felipe Austríaco :wave: [Get in touch!](https://www.linkedin.com/in/felipe-austriaco-dev/)
+=======
+<h1 align="center">React Webpack Babel Repository</h1>
+>>>>>>> 773dc86428cfa8470882afa40a07ebbe3c5e0043
