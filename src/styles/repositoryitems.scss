@@ -1,0 +1,29 @@
+li {
+  background: #c8bbe7;
+  border-radius: 0.5rem;
+  max-width: 30rem;
+  padding: 1.26rem 2.26rem;
+
+  > strong  {
+    font-size: 18px;
+  }
+
+  > p {
+    font-size: 14px;
+    margin-top: 1rem;
+  }
+
+  > a {
+    background: #fff;
+    padding: 1.2rem;
+    border-radius: 0.5rem;
+    transition: background 0.5ms ease-in-out;
+
+    &:hover {
+      background: #8257e6;
+      
+      cursor: pointer;
+      color: #fff !important;
+    }
+  }
+}

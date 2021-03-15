@@ -1,3 +1,5 @@
+import '../styles/repositoryitems.scss';
+
 type IRepository = {
   repository: {
     name: string;
