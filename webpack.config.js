@@ -29,6 +29,11 @@ module.exports = {
         exclude: /nodule_modules/,
         use: 'babel-loader',
       },
+      {
+        test: /\.css$/,
+        exclude: /nodule_modules/,
+        use: ['style-loader', 'css-loader'],
+      },
     ],
   },
 };
