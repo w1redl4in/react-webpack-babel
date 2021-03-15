@@ -7,6 +7,8 @@ This project was developed by @lainwired during <strong>Rocketseat's Ignite Jour
 - [ReactJS](https://reactjs.org/)
 - [Babel](https://babeljs.io/)
 - [Webpack](https://webpack.js.org/)
+- [SASS](https://sass-lang.com/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 ---
 
