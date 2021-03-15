@@ -4,18 +4,18 @@ type IRepository = {
   repository: {
     name: string;
     description: string;
-    link: string;
+    html_url: string;
   };
 };
 
 export function RepositoryItem({ repository }: IRepository) {
-  const { description, link, name } = repository;
+  const { description, html_url, name } = repository;
 
   return (
     <li>
       <strong>{name}</strong>
       <p>{description}</p>
-      <a target="_blank" href={link}>
+      <a target="_blank" href={html_url}>
         Acessar repositório
       </a>
     </li>
